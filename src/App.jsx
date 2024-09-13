@@ -1,5 +1,3 @@
-// src/ChatApp.jsx
-
 import React from 'react';
 import Doc from './page/doc';
 
